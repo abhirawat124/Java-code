@@ -1,4 +1,7 @@
 # Java-code
+- name: Setup Java JDK
+  uses: actions/setup-java@v3.0.0
+
 import java.lang.*
 class myfirst
 {
